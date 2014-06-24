@@ -1,5 +1,6 @@
 jQuery Timepicker Addon
 =======================
+[![Build Status](https://travis-ci.org/magicjhxie/jQuery-Timepicker-Addon.png)](https://travis-ci.org/magicjhxie/jQuery-Timepicker-Addon)
 
 About
 -----
