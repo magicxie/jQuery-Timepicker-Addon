@@ -4,3 +4,8 @@ node_js:
 install:
   - npm install grunt-cli -g
   - npm install
+
+branches:
+  only:
+    - patch-2
+    - dev
